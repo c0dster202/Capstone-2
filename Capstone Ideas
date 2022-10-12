@@ -1,0 +1,20 @@
+Cody Schwarz
+
+Capstone Project 2 Ideas
+
+Using a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases, I would like to attempt to predict whether or 
+not a patient has diabetes based on the data. This data seems to have a lot of good variables that could be used in our predictions. 
+Even though some of the variables have zero inputs (such as Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, and more) 
+we understand this as a missing value that will have to be dealt with accordingly. I also can use visual graphs and plots to 
+better understand the correlation of the data and easier deal with the missing values.
+
+Using data from the Bureau of Transportation Statistics, I want to predict the likelihood of a flight being cancelled. 
+A lot of flights nowadays get delayed, for an hour or maybe even for longer than that. While this presents difficulties for people,
+a flight getting cancelled all together is even worse. This makes airline companies look bad and their customers very upset.
+If there were a way to predict when a flight was likely to be cancelled then people could be informed ahead of time and make plans accordingly.
+
+I still would really enjoy working on an NFL/College football dataset to be able to predict when a player is worth trading up for in the draft.
+This would be extremely difficult to do as not only are you trying to predict who will succeed in the draft,
+but who is worth the capital you must give up in order to move up in the draft.
+Therefore I would believe you need to also predict how much it would take to move up however many spots would be needed.
+Obviously I am not choosing this one, but it is a crazy project idea. 
