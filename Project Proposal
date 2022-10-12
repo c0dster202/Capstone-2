@@ -1,0 +1,18 @@
+Intro: I decided to pursue my second project idea and predict the likelihood of a flight being cancelled. 
+I really like the data provided by the Bureau of Transportation Statistics and feel it will be a challenging project to complete!
+
+Problem: Imagine your sister is having a big wedding out of town and you are flying there. An hour before take off, as you are in the airport, 
+it is announced that the flight is cancelled after multiple delays. Without the foresight to plan ahead and have another option you may be completely out of luck.
+Imagine, however, if when you booked the flight, you were provided with a warning. (“Due to inclimate weather, the chances of this flight being cancelled is 8%”).
+Now, one will be able to plan ahead and prepare for a cancellation because it is at a greater likelihood.
+There are many variables which can affect a flight being cancelled (weather, which airline it is, location, etc.)
+and we will build a machine learning model using these factors to predict when a flight will be cancelled.
+
+Who: Online travel agencies such as Expedia, Hotwire, TripAdvisor, SkyScanner, etc. would be able to significantly increase
+the quality of their product with this. Even though it targets a narrow market, of flights that get cancelled, 
+it is extremely valuable for the consequences and troubles it produces. These companies would love to have a tool like this they could use to show their customers. 
+
+Data: Using data from the Bureau of Transportation Statistics, I will predict the likelihood of a flight being cancelled.
+As well I will use climate.gov to gain more data about weather for specific airports in the past to further improve my model. 
+
+Deliverables: Code, Paper, Final Presentation
